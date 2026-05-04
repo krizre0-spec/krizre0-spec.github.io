@@ -1,0 +1,12 @@
+---
+title: "Rain on the Cumberland Plateau"
+author: "Lizzie Kriz"
+description: ""
+date: "2026-04-14"
+categories: []
+---
+Exploring rain data from the Cumberland Plateau
+
+[Tour here](https://drive.google.com/file/d/15wELRTSDrN1micKaRLTObVKce1FWKqCU/view?usp=sharing)
+
+[Repo here](https://github.com/krizre0-spec/Rain)

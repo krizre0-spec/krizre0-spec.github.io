@@ -1,0 +1,14 @@
+---
+title: "Ethnogram App"
+author: "Lizzie Kriz"
+description: ""
+date: "2026-04-15"
+categories: []
+---
+An ethnogram of my dog Dixie, app used to collect behavior data.
+
+[Video tour here](https://drive.google.com/file/d/1rsMIzZtX4cUV9vlqCz8VV5Lnhaii9CrI/view?usp=sharing)
+
+Short Presentation of Data [here](https://krizre0-spec.github.io/Dixie/)
+
+[Repo here](https://github.com/krizre0-spec/Dixie)

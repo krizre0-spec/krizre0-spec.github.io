@@ -1,0 +1,13 @@
+---
+title: "Energy Use"
+author: "Lizzie Kriz"
+description: ""
+date: "2026-02-17"
+categories: []
+---
+This markdown explores energy use and efficiency to inform the shift to clean 
+energy, examining emissions, economic context, and fuel production/cost comparisons.
+ 
+ [Explore here](https://krizre0-spec.github.io/energy/) 
+ 
+ [Repo here](https://github.com/krizre0-spec/energy) 

@@ -5,7 +5,7 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>blog</title>
+<title>Kriz Portfolio</title>
 <link>https://your-website-url.example.com/</link>
 <atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
@@ -65,6 +65,106 @@ font-style: inherit;">1</span></span></code></pre></div></div>
   <category>news</category>
   <guid>https://your-website-url.example.com/posts/welcome/</guid>
   <pubDate>Sat, 18 Apr 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Ethnogram App</title>
+  <dc:creator>Lizzie Kriz</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-04-data-story-5/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>An ethnogram of my dog Dixie, app used to collect behavior data.</p>
+<p><a href="https://drive.google.com/file/d/1rsMIzZtX4cUV9vlqCz8VV5Lnhaii9CrI/view?usp=sharing">Video tour here</a></p>
+<p>Short Presentation of Data <a href="https://krizre0-spec.github.io/Dixie/">here</a></p>
+<p><a href="https://github.com/krizre0-spec/Dixie">Repo here</a></p>
+
+
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/2026-05-04-data-story-5/</guid>
+  <pubDate>Wed, 15 Apr 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Rain on the Cumberland Plateau</title>
+  <dc:creator>Lizzie Kriz</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-04-data-story-4/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Exploring rain data from the Cumberland Plateau</p>
+<p><a href="https://drive.google.com/file/d/15wELRTSDrN1micKaRLTObVKce1FWKqCU/view?usp=sharing">Tour here</a></p>
+<p><a href="https://github.com/krizre0-spec/Rain">Repo here</a></p>
+
+
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/2026-05-04-data-story-4/</guid>
+  <pubDate>Tue, 14 Apr 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>SDG 3: Literature Review</title>
+  <dc:creator>Lizzie Kriz</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-04-data-story-3/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><a href="https://krizre0-spec.github.io/real_ds_3/">This Book</a> explores the third UN sustainable development goal: health and well-being.</p>
+<p><a href="https://github.com/krizre0-spec/real_ds_3">Repo here</a></p>
+
+
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/2026-05-04-data-story-3/</guid>
+  <pubDate>Tue, 07 Apr 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Meat Consumption</title>
+  <dc:creator>Lizzie Kriz</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-04-data-story-2/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Midterm Project: examining meat production and consumption patterns, and the efficiency of different meat production in relation to SDG 2 &amp; 12.</p>
+<p><a href="https://krizre0-spec.github.io/Meat/">Explore here</a></p>
+<p><a href="https://github.com/krizre0-spec/Meat">Repo here</a></p>
+
+
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/2026-05-04-data-story-2/</guid>
+  <pubDate>Tue, 03 Mar 2026 06:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Energy Use</title>
+  <dc:creator>Lizzie Kriz</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-04-data-story-1/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This markdown explores energy use and efficiency to inform the shift to clean energy, examining emissions, economic context, and fuel production/cost comparisons.</p>
+<p><a href="https://krizre0-spec.github.io/energy/">Explore here</a></p>
+<p><a href="https://github.com/krizre0-spec/energy">Repo here</a></p>
+
+
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/2026-05-04-data-story-1/</guid>
+  <pubDate>Tue, 17 Feb 2026 06:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

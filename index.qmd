@@ -1,5 +1,5 @@
 ---
-title: "Lizzie's blog"
+title: "Lizzie's Portfolio"
 listing:
   contents: posts
   feed: true
@@ -11,3 +11,5 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+Please explore several "data stories" produced in my Data Storytelling & 
+Visualization class during my time at Sewanee, the University of the South.

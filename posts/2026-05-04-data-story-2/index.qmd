@@ -1,0 +1,12 @@
+---
+title: "Meat Consumption"
+author: "Lizzie Kriz"
+description: ""
+date: "2026-03-03"
+categories: []
+---
+Midterm Project: examining meat production and consumption patterns, and the efficiency of different meat production in relation to SDG 2 & 12.
+
+[Explore here](https://krizre0-spec.github.io/Meat/) 
+
+[Repo here](https://github.com/krizre0-spec/Meat) 

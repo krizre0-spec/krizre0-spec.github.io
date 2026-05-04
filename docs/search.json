@@ -2,9 +2,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this blog"
+    "text": "Sewanee 2026 graduate, passionate about Conservation, Geology, GIS and making data usable & accessible."
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -23,8 +23,43 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Lizzie’s blog",
+    "title": "Lizzie’s Portfolio",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 21, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 18, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "Please explore several “data stories” produced in my Data Storytelling & Visualization class during my time at Sewanee, the University of the South.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 21, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 18, 2026\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\nEthnogram App\n\n\n\n\n\n\n\n\n\n\n\nApr 15, 2026\n\n\nLizzie Kriz\n\n\n\n\n\n\n\n\n\n\n\n\nRain on the Cumberland Plateau\n\n\n\n\n\n\n\n\n\n\n\nApr 14, 2026\n\n\nLizzie Kriz\n\n\n\n\n\n\n\n\n\n\n\n\nSDG 3: Literature Review\n\n\n\n\n\n\n\n\n\n\n\nApr 7, 2026\n\n\nLizzie Kriz\n\n\n\n\n\n\n\n\n\n\n\n\nMeat Consumption\n\n\n\n\n\n\n\n\n\n\n\nMar 3, 2026\n\n\nLizzie Kriz\n\n\n\n\n\n\n\n\n\n\n\n\nEnergy Use\n\n\n\n\n\n\n\n\n\n\n\nFeb 17, 2026\n\n\nLizzie Kriz\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2026-05-04-data-story-1/index.html",
+    "href": "posts/2026-05-04-data-story-1/index.html",
+    "title": "Energy Use",
+    "section": "",
+    "text": "This markdown explores energy use and efficiency to inform the shift to clean energy, examining emissions, economic context, and fuel production/cost comparisons.\nExplore here\nRepo here"
+  },
+  {
+    "objectID": "posts/2026-05-04-data-story-2/index.html",
+    "href": "posts/2026-05-04-data-story-2/index.html",
+    "title": "Meat Consumption",
+    "section": "",
+    "text": "Midterm Project: examining meat production and consumption patterns, and the efficiency of different meat production in relation to SDG 2 & 12.\nExplore here\nRepo here"
+  },
+  {
+    "objectID": "posts/2026-05-04-data-story-3/index.html",
+    "href": "posts/2026-05-04-data-story-3/index.html",
+    "title": "SDG 3: Literature Review",
+    "section": "",
+    "text": "This Book explores the third UN sustainable development goal: health and well-being.\nRepo here"
+  },
+  {
+    "objectID": "posts/2026-05-04-data-story-4/index.html",
+    "href": "posts/2026-05-04-data-story-4/index.html",
+    "title": "Rain on the Cumberland Plateau",
+    "section": "",
+    "text": "Exploring rain data from the Cumberland Plateau\nTour here\nRepo here"
+  },
+  {
+    "objectID": "posts/2026-05-04-data-story-5/index.html",
+    "href": "posts/2026-05-04-data-story-5/index.html",
+    "title": "Ethnogram App",
+    "section": "",
+    "text": "An ethnogram of my dog Dixie, app used to collect behavior data.\nVideo tour here\nShort Presentation of Data here\nRepo here"
   }
 ]
